@@ -1,0 +1,23 @@
+{
+  "name": "agmm-test-package",
+  "version": "2.0.0",
+  "description": "My first-ish package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agmm/test-package.git"
+  },
+  "keywords": [
+    "test",
+    "agmm"
+  ],
+  "author": "AGMM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agmm/test-package/issues"
+  },
+  "homepage": "https://github.com/agmm/test-package#readme"
+}
