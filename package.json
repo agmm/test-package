@@ -1,6 +1,6 @@
 {
   "name": "agmm-test-package",
-  "version": "2.5.2",
+  "version": "3.0.0",
   "description": "My first-ish package.",
   "main": "index.js",
   "scripts": {
